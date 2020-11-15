@@ -1,0 +1,15 @@
+WebQCM
+Statement: webQCM est un projet web qui vise à permettre à des enseignants de définir des questions dans plusieurs domaines et de permettre ensuite aux apprenants de passer des tests dans ces différents domaines.
+
+Acteurs: (Rôle)
+Administrateurs
+Enseignants
+Elève
+nous allons avoir une gestion des droits basée sur des rôles. 
+Un role regroupe une série d'actions et le rôle est affecté à un utilisateur.
+
+Fonctionnalités
+1. Définition de questions.
+2. passage d'examen
+3. GEstion des utilisateurs
+4. 
